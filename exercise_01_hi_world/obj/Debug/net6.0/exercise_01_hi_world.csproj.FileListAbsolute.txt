@@ -1,0 +1,15 @@
+D:\main\studies\C_sharp\exercise_01_hi_world\bin\Debug\net6.0\exercise_01_hi_world.exe
+D:\main\studies\C_sharp\exercise_01_hi_world\bin\Debug\net6.0\exercise_01_hi_world.deps.json
+D:\main\studies\C_sharp\exercise_01_hi_world\bin\Debug\net6.0\exercise_01_hi_world.runtimeconfig.json
+D:\main\studies\C_sharp\exercise_01_hi_world\bin\Debug\net6.0\exercise_01_hi_world.dll
+D:\main\studies\C_sharp\exercise_01_hi_world\bin\Debug\net6.0\exercise_01_hi_world.pdb
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.csproj.AssemblyReference.cache
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.AssemblyInfoInputs.cache
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.AssemblyInfo.cs
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.csproj.CoreCompileInputs.cache
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.dll
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\refint\exercise_01_hi_world.dll
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.pdb
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\exercise_01_hi_world.genruntimeconfig.cache
+D:\main\studies\C_sharp\exercise_01_hi_world\obj\Debug\net6.0\ref\exercise_01_hi_world.dll
