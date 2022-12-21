@@ -13,7 +13,10 @@ switch (lesson) {
             782 -> 8
             918 -> 1 
         */
-
+        int numb3char = new Random().Next(100, 1000);
+        Console.WriteLine("Исходное число " + numb3char);
+        numb3char = (numb3char / 10) % 10;
+        result = Convert.ToString(numb3char);
         break;
 
     case "2":
