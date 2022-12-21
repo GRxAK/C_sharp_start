@@ -27,6 +27,7 @@ switch (lesson) {
         */
         Console.WriteLine("Введите число");
         int x = Convert.ToInt32(Console.ReadLine());
+        x = Math.Abs(x);
         int count = 0;
         int xCopy = x;
         while (x > 0) {         // находим количесвтво символов в числе
