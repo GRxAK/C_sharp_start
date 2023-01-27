@@ -31,6 +31,9 @@ double[,] CreateDoobleArray2D(int x, int y)
         for (int j = 0; j < arr.GetLength(1); j++)
         {
             arr[i, j] = new Random().Next(-9, 10) + Math.Round(new Random().NextDouble(), 1);
+            
+            // Random random = new Random();  другйо вариант
+            // double randomNumber = random.NextDouble() * (max - min) + min;
         }
     }
     return arr;
